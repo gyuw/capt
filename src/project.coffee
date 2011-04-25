@@ -7,7 +7,8 @@ exec = require('child_process').exec
 _ = require("#{root}/lib/underscore")
 CoffeeScript  = require 'coffee-script'
 
-sys.puts "Capt:"
+testsetwettetet
+sys.puts "Cadpt:"
 sys.puts " * Using coffeescript version #{CoffeeScript.VERSION}"
 
 String.prototype.capitalize = ->
